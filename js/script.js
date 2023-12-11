@@ -20,7 +20,7 @@ $( document ).ready(function() {
 		}
 	};
 	
-	var mkw = getUrlParameter('mkw');
+	var mkw =4; 
 	
 
 	var winDiv = $('#win');
